@@ -1,6 +1,6 @@
 # Live Belt Example
 
-This is a simple example of how to use the Live Belt library to create a simple realtime connection to Conveyor WebSocket Server, making it trivial to have secure realtime functionalities in your Laravel application.
+This is a simple example of how to use the [Live Belt](https://github.com/Jacked-PHP/live-belt) library to create a simple realtime connection to Conveyor WebSocket Server, making it trivial to have secure realtime functionalities in your Laravel application.
 
 > **Important:** you need OpenSwoole PHP Extension installed. (https://openswoole.com)
 
